@@ -6,6 +6,11 @@
 body {
   padding: 20px;
 }
+.logo{
+  position: absolute;
+  width: 30px;
+  cursor: pointer;
+}
 .header {
   text-align: center;
 }
